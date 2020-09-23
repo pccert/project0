@@ -1,6 +1,6 @@
 # Import the modules
 import sys
-iiiiiiimport random
+import random
 
 ans = True
 
