@@ -1,2 +1,2 @@
 # magic8ball
-What does the future look like.....yes
+What does the future look like.....
